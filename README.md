@@ -5,15 +5,23 @@ O Foot Mouse é um dispositivo para controlar o cursor do mouse através dos pé
 
 A base do seu funcionamento é a placa Pro Micro (compatível com a Arduino Leonardo - ATmega32u4) que facilita em muito o desenvolvimento de dispositivos que atuam como mouse.
 
+![FootMouse-Circuito](https://dl.dropboxusercontent.com/u/42132965/footmouse/footMouse_bb1.png)
+
 
 Lista de Materiais
 ---------------
-1- Pro Micro - 5V/16MHz
-2- Thumb Joystick
-2- Caixas Patola PB 114-2
-1- Cabo USB microB
-2- Botões de pressão
-8- Extensores 
+
+|Quantidade| Descrição                               |
+|----------|-----------------------------------------|
+|1         | Pro Micro - 5V/16MHz                    |
+|2         | Thumb Joystick                          |
+|2         | Caixas Patola PB 114-2                  |
+|1         | Cabo USB microB                         |
+|2         | Coordenada Y - byte menos significativo |
+|2         | Botões de pressão                       |
+|2         | Extensores                              |
+---------------
+
 
 
 Mapa do projeto
