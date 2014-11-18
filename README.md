@@ -27,7 +27,7 @@ Lista de Materiais
 Mapa do projeto
 ---------------
 * **/Firmware** - Código Arduino
-* **/Hardware** - Arquivos de design, formato Eagle
+* **/Hardware** - Arquivos de design, formato Fritzing
 
 Licença
 -------
