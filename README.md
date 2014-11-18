@@ -5,6 +5,10 @@ O Foot Mouse é um dispositivo para controlar o cursor do mouse através dos pé
 
 A base do seu funcionamento é a placa Pro Micro (compatível com a Arduino Leonardo - ATmega32u4) que facilita em muito o desenvolvimento de dispositivos que atuam como mouse.
 
+Basta conectar o cabo USB microB (mesmo usado para carregar a maioria dos smartphones) num computador que o Foot Mouse é reconhecido como um mouse padrão. Com um cabo OTG (On-The-Go) é possível conectar em smartphone ou tablets compatíveis com este padrão.
+
+Mais informações no meu Blog: [http://marchanjo.blogspot.com.br/2014/11/foot-mouse-mouse-para-os-pes.html](http://marchanjo.blogspot.com.br/2014/11/foot-mouse-mouse-para-os-pes.html)
+
 ![FootMouse-Circuito](https://github.com/Marchanjo/FootMouse/blob/master/Hardware/footMouse_bb1.png)
 
 
