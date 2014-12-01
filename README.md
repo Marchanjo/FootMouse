@@ -21,7 +21,6 @@ Lista de Materiais
 |2         | Thumb Joystick                          |
 |2         | Caixas Patola PB 114-2                  |
 |1         | Cabo USB microB                         |
-|2         | Coordenada Y - byte menos significativo |
 |2         | Botões de pressão                       |
 |2         | Extensores                              |
 ---------------
