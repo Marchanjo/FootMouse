@@ -1,4 +1,4 @@
-FootMouse - Mouse controlado pelos pés
+﻿FootMouse - Mouse controlado pelos pés
 =========
 
 O Foot Mouse é um dispositivo para controlar o cursor do mouse através dos pés. Foi desenvolvido usando componentes de baixo custo visando a reprodução dos mesmos.
@@ -31,7 +31,6 @@ Mapa do projeto
 ---------------
 * **/Firmware** - Código Arduino
 * **/Hardware** - Arquivos de design, formato Fritzing
-* **/Bin** - Arquivos binários
 
 Licença
 -------
